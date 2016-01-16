@@ -3,8 +3,8 @@ var prepro = require('prepro');
 
 module.exports = function(options) {
     options = options || {};
-    if (options.include) {
-        options.include.forEach(function(file) {
+    if (options.evaluate) {
+        options.evaluate.forEach(function(file) {
             prepro.evaluate(file);
         });
     }

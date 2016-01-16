@@ -1,6 +1,6 @@
 {
   "name": "gulp-prepro",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "index.js",
   "description": "Preprocess files with prepro.js",
   "author": "Jürg Lehni <juerg@scratchdisk.com> (http://scratchdisk.com)",
