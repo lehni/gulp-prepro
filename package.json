@@ -1,12 +1,12 @@
 {
   "name": "gulp-prepro",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "main": "index.js",
   "description": "Preprocess files with prepro.js",
   "author": "Jürg Lehni <juerg@scratchdisk.com> (http://scratchdisk.com)",
   "license": "MIT",
   "dependencies": {
-    "prepro": "^2.2.0",
+    "prepro": "^2.3.0",
     "through2": "^2.0.0"
   },
   "homepage": "https://github.com/lehni/gulp-prepro",
